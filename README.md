@@ -1,3 +1,7 @@
+## Activity Graph
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Solvvy-YukiYoshida&theme=tokyo-night)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
